@@ -3,7 +3,7 @@ A 3D printed Cyberdeck Project that serves as more of a 3D modelling and softwar
 
 
 # Parts-Used:
-	WAVESHARE UPS HAT (E) 
+	WAVESHARE UPS HAT (E)
 <img width="500" height="427" alt="image" src="https://github.com/user-attachments/assets/04a4b0f3-8131-4070-9d18-c06e40a996fd" />
 
 	RASPBERRY PI 5
@@ -17,4 +17,6 @@ A 3D printed Cyberdeck Project that serves as more of a 3D modelling and softwar
 
 	
 
-The first phase of this project involved making the cyberdeck in a brief case form factor. 
+The first phase of this project involved developing the cyberdeck to match the appearance of a briefcase.
+
+
